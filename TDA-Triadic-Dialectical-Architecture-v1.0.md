@@ -3,7 +3,7 @@
 ## ——人工智能结构补全的进化路径
 
 **引用**：
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20793637.svg)](https://doi.org/10.5281/zenodo.20793637)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21336248.svg)](https://doi.org/10.5281/zenodo.21336248)
 
 **作者**：loweswang（独立研究者）
 **ORCID**：0009-0004-5919-8856
