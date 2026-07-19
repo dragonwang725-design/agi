@@ -3,7 +3,7 @@ title: "大语言模型的结构性局限与人工智能的结构转向——基
 author: "loweswang（独立研究者）"
 orcid: "0009-0004-5919-8856"
 date: "2026-07-15"
-version: "1.0.0"
+version: "2.0.0"
 doi: "10.5281/zenodo.21336248" 
 license: "CC BY 4.0"
 ---
