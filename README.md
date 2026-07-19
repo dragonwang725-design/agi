@@ -21,6 +21,9 @@ license: "CC BY 4.0"
 - [第二篇：人工智能的认识论边界](人工智能的认识论边界.md)
 - [第三篇：大语言模型的结构性局限与人工智能的结构转向](TDA-Theory.md)
 - [第四篇：TDA 三层双视角辩证架构设计文档](TDA_Architecture_Design.md)
+- 新增：
+- [第五篇：空模型范式（NMP）设计规范](Null-Model-Design-Specification.md)
+- [第六篇：三层双视角辩证架构（TDA）：从空模型到认知宪政](TDA-Triadic-Dialectical-Architecture-v1.0.md)
 - [附录](#附录)
 
 ---
