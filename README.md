@@ -231,7 +231,7 @@ dragonwang725@gmail.com
 >
 > **版本历史**:
 > 
-> v1.0.0 (2026-07-15): 初始版本，整合四篇论文与序言
+> v2.0.1 (2026-07-15): 整合七篇论文与序言
 > 
 > 引用：[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21336248.svg)](https://doi.org/10.5281/zenodo.21336248)
 
