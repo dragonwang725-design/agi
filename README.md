@@ -151,10 +151,8 @@ license: "CC BY 4.0"
 - **身份**: 独立研究者
 - **ORCID**: 0009-0004-5919-8856
 -  **联系**:
-```
-dragonwang725@gmail.com
-250734099@qq.com
-```
+   | dragonwang725@gmail.com  | 250734099@qq.com 
+
 - **学术主页**: [待建立]
 
 #
