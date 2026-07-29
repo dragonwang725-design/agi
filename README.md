@@ -97,7 +97,7 @@ license: "CC BY 4.0"
 | 篇次 | 标题 | 定位 |  DOI |
 |:---|:---|:---|:---|
 | 第一篇 | 《"受动-能动"辩证结构与认识论的操作化路径》 | 哲学地基：意识内部的受动/能动功能二分 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20793333.svg)](https://doi.org/10.5281/zenodo.20793333)|
-| 第二篇 | 《人工智能的认识论边界》 | 诊断：当前LLM是纯能动系统的单边强化 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21669666.svg)](https://doi.org/10.5281/zenodo.21669666.) |
+| 第二篇 | 《人工智能的认识论边界》 | 诊断：当前LLM是纯能动系统的单边强化 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21669666.svg)](https://doi.org/10.5281/zenodo.21669666) |
 | 第三篇 | 《大语言模型的结构性局限与人工智能的结构转向》 | 批判与转向：从规模扩张到结构补全 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20793636.svg)](https://doi.org/10.5281/zenodo.20793636) |
 | 第四篇 | 《TDA三层双视角辩证架构设计文档》 | 技术总纲：完整拓扑结构与组件定义 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21281430.svg)](https://doi.org/10.5281/zenodo.21281430) |
 | 第五篇 | 《论安全关键人工智能系统中决策主体的形成机制》 | 聚焦安全场景：空模型作为受动极代理 |[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21466795.svg)](https://doi.org/10.5281/zenodo.21466795) |
