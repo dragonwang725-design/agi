@@ -4,7 +4,7 @@
 **日期**: 2026-07-18  
 **配套实现**: Null Model Paradigm (NMP) 参考实现 v4.0.0  
 
-**引用**：  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21281430.svg)](https://doi.org/10.5281/zenodo.21281430) |
+**引用**：  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21281430.svg)](https://doi.org/10.5281/zenodo.21281430) 
 
 ---
 
