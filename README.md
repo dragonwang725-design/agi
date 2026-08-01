@@ -20,7 +20,7 @@ license: "CC BY 4.0"
 - [第二篇：人工智能的认识论边界](人工智能的认识论边界.md)
 - [第三篇：大语言模型的结构性局限与人工智能的结构转向](TDA-Theory.md)
 - [第四篇：TDA 三层双视角辩证架构设计文档](TDA_Architecture_Design.md)
-- [第五篇：双相理论（Dual-Phase Theory）](/dual-phase-theory.md)
+- [第五篇：双相理论（Dual-Phase Theory）](/TDA-Theory/dual-phase-theory.md)
 - [第六篇：论安全关键人工智能系统中决策主体的形成机制](决策主体的形成机制.md)
 - [第七篇：空模型范式（NMP）设计规范](Null-Model-Design-Specification.md)
 - [第八篇：三层双视角辩证架构（TDA）：从空模型到认知宪政](TDA-Triadic-Dialectical-Architecture-v1.0.md)
