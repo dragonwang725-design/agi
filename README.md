@@ -101,7 +101,7 @@ license: "CC BY 4.0"
 | 第二篇 | 《人工智能的认识论边界》 | 诊断：当前LLM是纯能动系统的单边强化 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21669666.svg)](https://doi.org/10.5281/zenodo.21669666) |
 | 第三篇 | 《大语言模型的结构性局限与人工智能的结构转向》 | 批判与转向：从规模扩张到结构补全 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20793636.svg)](https://doi.org/10.5281/zenodo.20793636) |
 | 第四篇 | 《TDA三层双视角辩证架构设计文档》 | 技术总纲：完整拓扑结构与组件定义 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21281430.svg)](https://doi.org/10.5281/zenodo.21281430) |
-| 第五篇 | 双相理论（Dual-Phase Theory） | 划分模型训练与模型使用的界线 |[![DOI]|
+| 第五篇 | 双相理论（Dual-Phase Theory） | 划分模型训练与模型使用的界线 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21732245.svg)](https://doi.org/10.5281/zenodo.21732245)|
 | 第六篇 | 《论安全关键人工智能系统中决策主体的形成机制》 | 聚焦安全场景：空模型作为受动极代理 |[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21466795.svg)](https://doi.org/10.5281/zenodo.21466795) |
 | 第七篇 | 《空模型范式（NMP）设计规范》 | 实现：已可部署的受动极代理，<10ms延迟 | - |
 | 第八篇 | 《三层双视角辩证架构（TDA）：从空模型到认知宪政》 | 范式宣言：从"对齐"到"制衡" | - |
