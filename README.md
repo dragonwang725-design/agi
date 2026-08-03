@@ -155,7 +155,7 @@ license: "CC BY 4.0"
 
 ### 附录１：
 
-- [NMP 空模型引擎 v2.0 核心实现](nmp_integrated.py)
+- [NMP 空模型引擎 v2.0 核心实现演示版](nmp_integrated.py)
 
 - [v2.0 两大新功能的演示脚本](demo_v2.py)
 
