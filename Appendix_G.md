@@ -1,4 +1,4 @@
-## 附录：受动极必要性定理（*The Necessity of the Passive Pole*）
+## 受动极必要性定理（*The Necessity of the Passive Pole*）
 
 > **版本**: 2.0.0  
 > **配套架构**: TDA 三层双视角辩证架构  
