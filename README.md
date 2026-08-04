@@ -25,7 +25,7 @@ license: "CC BY 4.0"
 - [第七篇：空模型范式（NMP）设计规范](Null-Model-Design-Specification.md)
 - [第八篇：三层双视角辩证架构（TDA）：从空模型到认知宪政](TDA-Triadic-Dialectical-Architecture-v1.0.md)
 - [第九篇：没有统一的"对"：人工智能研究的学科重构与使用侧转向](没有统一的.md)
-- [结语：受动极必要性定理](#附录)
+- [结语：受动极必要性定理](Appendix_G.md)
 - [附录](#附录)
 - [NMP 空模型引擎 v2.0 核心实现演示版](nmp_integrated.py)
 - [v2.0 两大新功能的演示脚本](demo_v2.py)
