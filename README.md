@@ -6,6 +6,7 @@ date: "2026-07-31"
 version: "3.0.0"
 doi: "10.5281/zenodo.21336248" 
 license: "CC BY 4.0"
+Copyright (c) 2026: loweswnag
 ---
 
 # 大语言模型的结构性局限与人工智能的结构转向
