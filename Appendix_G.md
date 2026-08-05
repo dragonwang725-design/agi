@@ -5,7 +5,7 @@
 > **定位**: 认识论根基的形式化表达  
 > **日期**: 2026-08-05
 >
-> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21718874.svg)](https://doi.org/10.5281/zenodo.21718874)
+> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21802503.svg)](https://doi.org/10.5281/zenodo.21802503)
 
 #
 
