@@ -6,8 +6,8 @@ authors:
     orcid: "https://orcid.org/0009-0004-5919-8856"
 title: "TDA Three-Layer Dialectical Architecture & Null-Model-Paradigm-NMP & Appendix G: The Necessity of the Receptive Pole Theorem"
 version: v6.0.0
-doi: 10.5281/zenodo.21281430.
-date-released: 2026-07-09
+doi: 10.5281/zenodo.21336248
+date-released: 2026-07-31
 url: "https://github.com/dragonwang725-design/agi"
 abstract: >
   This work formally proves the Necessity of the Receptive Pole Theorem: any generative reasoning system without an independent external factual reading channel (Receptive Pole R = ∅) will structurally produce ungrounded judgments (LLM hallucinations).
@@ -29,5 +29,5 @@ preferred-citation:
       orcid: "https://orcid.org/0009-0004-5919-8856"
   title:  "TDA Three-Layer Dialectical Architecture & Null-Model-Paradigm-NMP & Appendix G: The Necessity of the Receptive Pole Theorem"
   journal: Zenodo
-  doi: 10.5281/zenodo.21281430
+  doi: 10.5281/zenodo.21336248
   year: 2026
