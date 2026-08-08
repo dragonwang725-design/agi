@@ -3,7 +3,7 @@
 ——*基于三层双视角辩证架构（TDA）与元受动极的研究*
 
 
-引用：[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21336248.svg)](https://doi.org/10.5281/zenodo.21336248)
+引用：[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20793636.svg)](https://doi.org/10.5281/zenodo.20793636)
 #
 > **哲学家们只是用不同的方式解释世界，而问题在于改变世界。**
 
