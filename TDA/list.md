@@ -11,8 +11,6 @@ Copyright (c) 2026: loweswang
 
 未经商用授权直接用于盈利产品将构成著作权与商标侵权。
 
-
-
 #  *TDA 三层双视角辩证架构设计文档目录*
 *—— （Three-layer Dual-perspective Asymmetric）*
 
@@ -35,8 +33,8 @@ Copyright (c) 2026: loweswang
 - [D：云端-本地交互协议（Cloud-Local Protocol v2.0）](/TDA/云端-本地交互协议.md)
 - [E：NMP 逻辑一致性验证报告（V2.0）](/TDA/NMP逻辑一致性验证报告.md)
 - [F：智能三层控制体系与 NMP/TDA 的融合论述](/TDA/智能三层控制体系.md)
-- [NMP 空模型引擎 v2.0 核心实现演示版](nmp_integrated.py)
-- [v2.0 两大新功能的演示脚本](demo_v2.py)
+- [NMP 空模型引擎 v2.0 核心实现演示版](/nmp_integrated.py)
+- [v2.0 两大新功能的演示脚本](/demo_v2.py)
  
   
 ## 简介
@@ -63,8 +61,6 @@ OpenAI最新发表并被称为"开创性论文"的《*Why Language Models Halluc
 原因如此简单。
 
 解决办法一样很简单：**那就给大模型事实**。
-
-
 
 ## 架构图
 
