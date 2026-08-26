@@ -72,7 +72,7 @@ OpenAI最新发表并被称为"开创性论文"的《*Why Language Models Halluc
 
 Null Model Paradigm（空模型范式）在 LLM 的"策略输出"与"执行器"之间插入本地轻量校验层，LLM降级为"策略建议器"，所有输出必须以事实为前提、“事实+判例”双重校验方可放行：***在源头既用事实约束纯模型发散与幻觉***。
 
-<img src="flow-chart/nmp.png" alt="nmp" width="75%">
+<img src="/flow-chart/nmp.png" alt="nmp" width="75%">
 
 > 空模型本质是一个软件程序，本身不生成内容，只做空校验、空拦截、空增强——像安检门一样，"空"着但通过规则过滤一切。
 
