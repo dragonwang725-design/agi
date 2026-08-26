@@ -11,7 +11,7 @@ Copyright (c) 2026: loweswang
 
 未经商用授权直接用于盈利产品将构成著作权与商标侵权。
 
-#  *TDA 三层双视角辩证架构设计文档目录*
+# 设计哲学: *TDA 三层双视角辩证架构设计文档目录*
 *—— （Three-layer Dual-perspective Asymmetric）*
 
 ## 目  录
