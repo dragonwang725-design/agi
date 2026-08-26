@@ -22,7 +22,7 @@ Copyright (c) 2026: loweswang
 - [第三篇：人工智能的认识论边界](人工智能的认识论边界.md)
 - [第四篇：通用人工智能（AGI）的不可能三角](通用智能的不可能三角_正式版.md)
 - [第五篇：大语言模型的结构性局限与人工智能的结构转向](TDA-Theory.md)
-- [第六篇：设计哲学：TDA 三层双视角辩证架构设计文档](TDA_Architecture_Design.md)
+- [第六篇：设计哲学：TDA 三层双视角辩证架构设计文档](/TDA/list.md)
 - [第七篇：双相理论（Dual-Phase Theory）](/TDA/dual-phase-theory.md)
 - [第八篇：论安全关键人工智能系统中决策主体的形成机制](决策主体的形成机制.md)
 - [第九篇：空模型范式（NMP）设计规范](Null-Model-Design-Specification.md)
