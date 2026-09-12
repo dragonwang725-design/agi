@@ -164,6 +164,9 @@ TDA 既不否定大模型，也不否定 RAG、RLHF、Agent 等现有技术探�
 | 推理（inference）   | 判断流程（judgment pipeline）      | 前者是概率计算，后者包含事实校验与裁决  |
 | 输出（output）      | 裁决结果（arbitration result）     | 前者是生成物，后者是约束后的合法化产物  |
 | 安全对齐（alignment） | 事实约束（factual grounding）      | 前者是内化偏好，后者是外挂硬边界     |
+| 上下文窗口（context window）   | 事实快照（fact snapshot）     | 前者是文本滑动窗口，后者是目的驱动的事实维度  |
+| 提示词（prompt）      | 目的-事实请求（purpose-fact request）    | 前者是文本输入，后者是主权意图与事实参数的绑定 |
+| 训练/微调（Training/Fine-tuning） | 判例积累（case law accumulation）      | 前者是改变模型权重，后者是外挂扬弃记忆    |
 
 > **判断归机，目的归人。事实为锚，结构为纲。**
 
