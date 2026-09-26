@@ -39,7 +39,6 @@ Copyright (c) 2026: loweswang
   
 ## 简介
   
-#
 
 ## 空模型范式
 
