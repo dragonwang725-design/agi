@@ -101,7 +101,7 @@ $F(w_t) \hookrightarrow S$ 表示"事实快照已进入系统 $S$ 的推理前�
 任何判断  $j = (P \Rightarrow Q)$ 要成为有效输出，其前提  $P$ 必须被当前目的相关的事实子集确认：
 
 $$
-\text{Valid}(j, t, q) \iff P \in F(w_t, q)
+\text{Valid}(j, t, q) \implies P\in F(w_t, q)
 $$
 
 **公理 II（受动极唯一入口公理 / Axiom of Sole Fact Ingress）**  
