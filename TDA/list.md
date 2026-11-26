@@ -1,5 +1,5 @@
 ---
-title: "TDA三层双视角辩证架构 | 受动极必要性定理"
+title: "TDA三层双视角辩证架构"
 author: "loweswang（独立研究者）"
 orcid: "0009-0004-5919-8856"
 date: "2026-08-09"
@@ -9,7 +9,6 @@ license: "CC BY 4.0"
 Copyright (c) 2026: loweswang
 ---
 
-未经商用授权直接用于盈利产品将构成著作权与商标侵权。
 
 # 设计哲学: *TDA 三层双视角辩证架构设计文档目录*
 *—— （Three-layer Dual-perspective Asymmetric）*
