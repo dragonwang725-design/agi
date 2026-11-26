@@ -22,11 +22,12 @@ Copyright (c) 2026: loweswang
 - [三、第一层：先验计算结构（空模型范式）](/TDA/第一层.md)
 - [四、第二层：结构化辩论层](/TDA/第二层.md)
 - [五、第三层：元受动极层](/TDA/第三层.md)
-- [六、双视角辩证机制](/TDA/双视角辩证机制.md)
-- [七、双相理论（Dual-Phase Theory）](/TDA/dual-phase-theory.md)
-- [八、受动极必要性定理](/Appendix_G.md)
+- [六、空模型范式（NMP）设计规范](Null-Model-Design-Specification.md)
+- [七、双视角辩证机制](/TDA/双视角辩证机制.md)
+- [八、三层双视角辩证架构（TDA）：从空模型到认知宪政](TDA-Triadic-Dialectical-Architecture-v1.0.md)
 - [九、术语表](/TDA/术语表.md)
-- [附录]
+
+- [附录](附录.md)
 - [A：裁决AI动态阈值算法参考实现](/TDA/裁决AI动态阈值算法参考实现.md)
 - [B：架构哲学完整阐释——原始设计笔记](/TDA/架构哲学完整阐释.md)
 - [C：元事实库数据结构规范（Meta-Fact Vault v2.0.0）](/TDA/元事实库数据结构规范.md)
