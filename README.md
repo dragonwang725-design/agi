@@ -241,7 +241,7 @@ TDA 既不否定大模型，也不否定 RAG、RLHF、Agent 等现有技术探�
 
 ### 附录3：开源与社区共建
 
-- **NMP参考实现**: [GitHub仓库链接](https://github.com/dragonwang725-design/Null-Model-Paradigm-NMP)
+- **NMP参考实现**: [GitHub仓库链接](TDA/list.md)
 - **元事实库规范**: 见第四篇附录C
 - **云端-本地协议**: 见第四篇附录D
 - **裁决AI算法**: 见第四篇附录A
