@@ -24,8 +24,8 @@ Copyright (c) 2026: loweswang
 - [四. 参考实现与演示](demo_v2.py)：
 1. [NMP 空模型引擎 v2.0 核心实现演示版](nmp_integrated.py)
 2. [v2.0 两大新功能的演示脚本](demo_v2.py)
-
-- [五. 受动极必要性定理](Appendix_G.md)
+- [五. The Null Model Paradigm: Constraint-First Architecture for Reliable LLM Agents](Zenodo20463703.pdf)
+- [六. 受动极必要性定理](Appendix_G.md)
   
 #
 - **理论篇**
@@ -37,10 +37,6 @@ Copyright (c) 2026: loweswang
 - [六. 大语言模型的结构性局限与人工智能的结构转向](TDA-Theory.md)
 - [七. 论安全关键人工智能系统中决策主体的形成机制](决策主体的形成机制.md)
 - [八. 没有统一的"对"：人工智能研究的学科重构与使用侧转向](没有统一的.md)
-
-- [九. The Null Model Paradigm: Constraint-First Architecture for Reliable LLM Agents](Zenodo20463703.pdf)
-
-
 
 #
 
