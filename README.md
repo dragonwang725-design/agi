@@ -25,7 +25,7 @@ Copyright (c) 2026: loweswang
 1. [NMP 空模型引擎 v2.0 核心实现演示版](nmp_integrated.py)
 2. [v2.0 两大新功能的演示脚本](demo_v2.py)
 - [五. The Null Model Paradigm: Constraint-First Architecture for Reliable LLM Agents](Zenodo20463703.pdf)
-- [六. 受动极必要性定理](Appendix_G.md)
+- [六. 受动极必要性定理](Necessity.md)
   
 #
 - **理论篇**
