@@ -21,10 +21,11 @@ Copyright (c) 2026: loweswang
 - [一. 矛盾全景：当前AI合一范式的内在冲突与工程张力](矛盾全景_当前AI合一范式的内在冲突与工程张力1.md)
 - [二. 设计哲学：TDA 三层双视角辩证架构设计文档](/TDA/list.md)
 - [三. 双相理论（Dual-Phase Theory）](/TDA/dual-phase-theory.md)
-- [**附录**](#附录)
-- [NMP 空模型引擎 v2.0 核心实现演示版](nmp_integrated.py)
+- [四. 参考实现与演示](demo_v2.py)：
 - [v2.0 两大新功能的演示脚本](demo_v2.py)
-
+- [NMP 空模型引擎 v2.0 核心实现演示版](nmp_integrated.py)
+- [五. 受动极必要性定理](Appendix_G.md)
+  
 #
 - **理论篇**
 - [一. 导论/辩证论："受动-能动"辩证结构与认识论的操作化路径](Philosophy_Inspiration.md)
@@ -34,13 +35,7 @@ Copyright (c) 2026: loweswang
 - [五. 人工智能的认识论边界](人工智能的认识论边界.md)
 - [六. 大语言模型的结构性局限与人工智能的结构转向](TDA-Theory.md)
 - [七. 论安全关键人工智能系统中决策主体的形成机制](决策主体的形成机制.md)
-- [八. 空模型范式（NMP）设计规范](Null-Model-Design-Specification.md)
-- [九. 三层双视角辩证架构（TDA）：从空模型到认知宪政](TDA-Triadic-Dialectical-Architecture-v1.0.md)
-- [十. 没有统一的"对"：人工智能研究的学科重构与使用侧转向](没有统一的.md)
-
-#
-- **总结论**
-- [总结论.受动极必要性定理](Appendix_G.md)
+- [八. 没有统一的"对"：人工智能研究的学科重构与使用侧转向](没有统一的.md)
 
 
 #
