@@ -22,8 +22,8 @@ Copyright (c) 2026: loweswang
 - [二. 设计哲学：TDA 三层双视角辩证架构设计文档](/TDA/list.md)
 - [三. 双相理论（Dual-Phase Theory）](/TDA/dual-phase-theory.md)
 - [四. 参考实现与演示](demo_v2.py)：
-- [v2.0 两大新功能的演示脚本](demo_v2.py)
 - [NMP 空模型引擎 v2.0 核心实现演示版](nmp_integrated.py)
+- [v2.0 两大新功能的演示脚本](demo_v2.py)
 - [五. 受动极必要性定理](Appendix_G.md)
   
 #
