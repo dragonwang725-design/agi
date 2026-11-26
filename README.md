@@ -15,24 +15,33 @@ Copyright (c) 2026: loweswang
 
 ## 目  录
 
-- [序言](#序言)
+- [**序言**](#序言)
+
+- **工程篇**
+- [一. 矛盾全景：当前AI合一范式的内在冲突与工程张力](矛盾全景_当前AI合一范式的内在冲突与工程张力1.md)
+- [二. 设计哲学：TDA 三层双视角辩证架构设计文档](/TDA/list.md)
+- [三. 双相理论（Dual-Phase Theory）](/TDA/dual-phase-theory.md)
+- [**附录**](#附录)
+- [NMP 空模型引擎 v2.0 核心实现演示版](nmp_integrated.py)
+- [v2.0 两大新功能的演示脚本](demo_v2.py)
+
+#
+- **理论篇**
 - [一. 导论/辩证论："受动-能动"辩证结构与认识论的操作化路径](Philosophy_Inspiration.md)
 - [二. 存在论：中文屋之后](Ontology.md)
 - [三. 认识论：知识与事实的解耦](知识与事实的解耦_正式版.md)
 - [四. 系统论：通用人工智能（AGI）的不可能三角](通用智能的不可能三角_正式版.md)
 - [五. 人工智能的认识论边界](人工智能的认识论边界.md)
-- [六. 矛盾全景：当前AI合一范式的内在冲突与工程张力](矛盾全景_当前AI合一范式的内在冲突与工程张力1.md)
-- [七. 大语言模型的结构性局限与人工智能的结构转向](TDA-Theory.md)
-- [八. 设计哲学：TDA 三层双视角辩证架构设计文档](/TDA/list.md)
-- [九. 双相理论（Dual-Phase Theory）](/TDA/dual-phase-theory.md)
-- [十. 论安全关键人工智能系统中决策主体的形成机制](决策主体的形成机制.md)
-- [十一. 空模型范式（NMP）设计规范](Null-Model-Design-Specification.md)
-- [十二. 三层双视角辩证架构（TDA）：从空模型到认知宪政](TDA-Triadic-Dialectical-Architecture-v1.0.md)
-- [十三. 没有统一的"对"：人工智能研究的学科重构与使用侧转向](没有统一的.md)
+- [六. 大语言模型的结构性局限与人工智能的结构转向](TDA-Theory.md)
+- [七. 论安全关键人工智能系统中决策主体的形成机制](决策主体的形成机制.md)
+- [八. 空模型范式（NMP）设计规范](Null-Model-Design-Specification.md)
+- [九. 三层双视角辩证架构（TDA）：从空模型到认知宪政](TDA-Triadic-Dialectical-Architecture-v1.0.md)
+- [十. 没有统一的"对"：人工智能研究的学科重构与使用侧转向](没有统一的.md)
+
+#
+- **总结论**
 - [总结论.受动极必要性定理](Appendix_G.md)
-- [附录](#附录)
-- [NMP 空模型引擎 v2.0 核心实现演示版](nmp_integrated.py)
-- [v2.0 两大新功能的演示脚本](demo_v2.py)
+
 
 #
 
