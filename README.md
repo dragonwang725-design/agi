@@ -38,6 +38,10 @@ Copyright (c) 2026: loweswang
 - [七. 论安全关键人工智能系统中决策主体的形成机制](决策主体的形成机制.md)
 - [八. 没有统一的"对"：人工智能研究的学科重构与使用侧转向](没有统一的.md)
 
+#
+- [九. The Null Model Paradigm: Constraint-First Architecture for Reliable LLM Agents](Zenodo20463703.pdf)
+
+
 
 #
 
