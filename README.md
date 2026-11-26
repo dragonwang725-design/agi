@@ -256,7 +256,7 @@ TDA 既不否定大模型，也不否定 RAG、RLHF、Agent 等现有技术探�
 - **姓名**: loweswang
 - **身份**: 独立研究者
 - **联系**: dragonwang725@gmail.com | 250734099@qq.com
-- **学术主页**: [ORCID: 0009-0004-5919-8856](https://orcid.org/my-orcid?orcid=0009-0004-5919-8856)
+- **学术主页**: ORCID: 0009-0004-5919-8856
 
 **引用**：[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21336248.svg)](https://doi.org/10.5281/zenodo.21336248)
 
