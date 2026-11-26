@@ -47,7 +47,7 @@ Copyright (c) 2026: loweswang
 >
 >***—— 事实是判断的依据***。
 >
-> NMP 不是 LLM 安全护栏方案，RAG、RLHF、护栏在后，而且集成于LLM ，NMP在生成前，是独立系统。
+> NMP 不是 LLM 安全护栏方案，RAG外挂但公共语料、RLHF、护栏在生成后，且集成于LLM ，NMP在生成前，是独立系统。
 
 ## 架构图
 
