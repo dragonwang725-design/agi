@@ -21,9 +21,9 @@ Copyright (c) 2026: loweswang
 - [三、第一层：先验计算结构（空模型范式）](/TDA/第一层.md)
 - [四、第二层：结构化辩论层](/TDA/第二层.md)
 - [五、第三层：元受动极层](/TDA/第三层.md)
-- [六、空模型范式（NMP）设计规范](Null-Model-Design-Specification.md)
+- [六、空模型范式（NMP）设计规范](/Null-Model-Design-Specification.md)
 - [七、双视角辩证机制](/TDA/双视角辩证机制.md)
-- [八、三层双视角辩证架构（TDA）：从空模型到认知宪政](TDA-Triadic-Dialectical-Architecture-v1.0.md)
+- [八、三层双视角辩证架构（TDA）：从空模型到认知宪政](/TDA-Triadic-Dialectical-Architecture-v1.0.md)
 - [九、术语表](/TDA/术语表.md)
 
 - [附录](附录.md)
