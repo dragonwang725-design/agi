@@ -126,24 +126,6 @@ TDA 架构的完整实现需要跨行业、跨领域的长期协作：
 | 安全兜底 | 无 | 校验层拥有最终否决权 |
 | 可解释性 | 黑箱 | 100%（每次拦截输出事实 ID / 判例 ID） |
 
-## 快速开始
-
-```bash
-# 1. 克隆仓库
-git clone https://github.com/dragonwang725-design/Null-Model-Paradigm-NMP-.git
-cd nmp
-
-# 2. 安装依赖
-pip install -r requirements.txt
-
-# 3. 准备事实库
-mkdir data
-echo "塑料杯不耐高温，盛装热水会变形。" > data/vault_robot.json
-
-# 4. 启动
-python nmp.py
-# 打开浏览器访问 http://127.0.0.1:7860
-```
 
 ## Demo界面
 
@@ -193,4 +175,4 @@ LLM 在事实边界内生成策略
 >
 >[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21281430.svg)](https://doi.org/10.5281/zenodo.21281430)
 >
-> https://orcid.org/0009-0004-5919-8856
+> orcid.0009-0004-5919-8856
