@@ -246,6 +246,9 @@ TDA 既不否定大模型，也不否定 RAG、RLHF、Agent 等现有技术探�
 
 - **NMP参考实现**: [GitHub仓库链接](TDA/list.md)
 - **元事实库规范**: 见TDA 三层双视角辩证架构设计文档附录C
+- [元事实库样张1](TDA/vault_autonomous_driving.json)
+- [元事实库样张2](TDA/vault_medical.json)
+- [元事实库样张3](TDA/vault_robot.json)
 - **云端-本地协议**: 见TDA 三层双视角辩证架构设计文档附录D
 - **裁决AI算法**: 见TDA 三层双视角辩证架构设计文档附录A
 
